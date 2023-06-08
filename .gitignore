@@ -1,0 +1,17 @@
+**/.vscode
+**/.idea
+**/.read*
+**/*.json
+**/*.xml
+**/*.md
+**/*.java
+**/node_module*
+**/*.yml
+**/*.yaml
+**/*.js
+**/*.hbs
+**/*.html
+**/Dockerfile
+**/src/
+**/img/
+**/terraform-google-three-tier-web-app
